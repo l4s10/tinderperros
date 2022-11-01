@@ -1,15 +1,13 @@
-# Getting Started with Tinder dogs
+# Conocienco la aplicacion "Tinder dogs"
 
-Este Proyecto ha sido creado por Francisco Muñoz y Jorge Valdivia
+Este proyecto ha sido creado por Francisco Muñoz y Jorge Valdivia
+para el taller de "Desarrollo avanzado de aplicaciones web" de la 
+Universidad del Bio-Bio.
 
-## Algunos comandos previos
-
-In the project directory, you can run:
-
-### El proyecto viene sin la carpeta node_modules, para ello debe instalarlo con: 
-  npm install
+## Dependencias del proyecto y como instalarlas
+### node_modules   
+   npm install
 ### Material UI
   npm install @mui/material @emotion/react @emotion/styled
-
 ### axios (permite conectarnos a la api de los perros)
   npm install axios
