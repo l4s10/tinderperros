@@ -1,0 +1,14 @@
+.Contenedor{
+    text-align: center;
+    margin: 0px auto;
+}
+body{
+    background: url("./Images/Background.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    margin: 0;
+    height: 100vh;
+}
+.Carddd{
+    
+}
