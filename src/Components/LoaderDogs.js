@@ -171,6 +171,7 @@ export default function LoaderDogs(){
                         </Card>
                 ))}
                 </Grid>
+                {/* FIN RECHAZADOS */}
             </Grid>
         </div>
     )
